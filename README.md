@@ -5,8 +5,7 @@
 **Your Smart Study Partner**  
 _Effortlessly explore lessons and subjects with a beautifully designed AI-powered UI._
 
-![GitHub stars](https://img.shields.io/github/stars/yashG72/saas_app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yashG72/saas_app?style=social)
+
 
 </div>
 
