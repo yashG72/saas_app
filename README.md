@@ -5,7 +5,7 @@
 **Your Smart Study Partner**  
 _Effortlessly explore lessons and subjects with a beautifully designed AI-powered UI._
 
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://saas-app-ten-alpha.vercel.app)
 
 </div>
 
